@@ -1,0 +1,10 @@
+{
+    "IMAGE": "crypto-fe-tokenmanagement",
+    "DEVDOMAIN": "dev-qoin-token-management.qoincrypto.id",
+    "STADOMAIN": "staging-qoin-token-management.qoincrypto.id",
+    "PRODOMAIN": "qoin-token-management.qoinpay.id",
+    "DEVHOST": "192.169.3.3",
+    "STAHOST": "192.170.3.3",
+    "PROHOST": "192.171.3.3",
+    "PORT": "3000"
+}
